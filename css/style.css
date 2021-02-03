@@ -39,7 +39,10 @@ header{
 }
 
 .logo{
-
+background-image: url(../imgs/iconfinder_meteorite.png);
+width: 100px;
+height: 100px;
+background-size: 100%
 }
 
 nav ul{
