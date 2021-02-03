@@ -11,6 +11,11 @@ body{
 	display: flex;
 	flex-direction: column;
 	font-family: 'EB Garamond', serif;
+	background: #FFBEBC;
+}
+
+h1{
+	font-size: 50px;
 }
 
 .joke{
@@ -22,7 +27,7 @@ main{
 	flex-grow: 1;
 	justify-content: center;
 	align-items: center;
-	padding-top: 250px;
+	padding-top: 175px;
 }
 
 
@@ -45,6 +50,11 @@ height: 100px;
 background-size: 100%
 }
 
+a{
+	text-decoration: none;
+	color: grey;
+}
+
 nav ul{
 	list-style: none;
 	padding: 0;
@@ -60,6 +70,16 @@ footer{
 	grid-gap: 10px;
 }
 
-.credits{
-	text-align: right;
+.Credits{
+	text-align: center;
 }
+
+.B1{
+	text-align: center;
+}
+
+#C1{
+	color: black;
+	text-decoration: none;
+}
+
